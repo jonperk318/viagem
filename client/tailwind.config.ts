@@ -26,4 +26,5 @@ const config: Config = {
 };
 export default config;
 
-/* Color palette found on this page: https://www.pinterest.com/pin/palette-01--1055599906324013/ */
+/* Color palette found on this page: 13/ */
+			Test
